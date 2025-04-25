@@ -1,0 +1,18 @@
+# practise program of python
+a=4
+print(type(a))
+x="qwers"
+print(type(x))
+x=123
+y="234"
+z=x+int(y)
+x=input("enter a number")
+y=input("enter a number")
+c=x+y
+print(c)
+
+#write a program to add two number
+x= input("enter first number")
+y= input ("enter second number")
+z=int(x)+int(y)
+print("sum is", z)
