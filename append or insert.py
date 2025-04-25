@@ -1,0 +1,17 @@
+a=[]
+a.append(10)
+a.append(20)
+a.append(60)
+print(a)
+a.insert(1,40)
+print(a)
+a.insert(-1,10)
+print(a)
+a.insert(-3,100)
+print(a)
+A=[1,2,3]
+B=[4,5,6]
+C=A+B
+print(C)
+A+[100]
+print(A)
